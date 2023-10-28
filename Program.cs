@@ -90,6 +90,7 @@ namespace OneVar {
             return -sum;
         }
 
+        // Not originally mine, but source needs to be found
         public static float InvNorm(float area, float mean, float stdev) {
             double a1 = -3.969683028665376e+01;
             double a2 = 2.209460984245205e+02;
